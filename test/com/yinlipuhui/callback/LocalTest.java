@@ -11,5 +11,4 @@ public class LocalTest {
         Local local = new Local(new Remote(),"Hello");    
         local.sendMessage();  
 	}
-
 }
